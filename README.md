@@ -24,12 +24,8 @@ User Profiles with attempt logs
 
 ## 🖥️ Screenshots
 
-> Add screenshots here of:
-> - Login Page
-> - Quiz Interface
-> - Score Summary
-> - Score History
-> - Leaderboard
+<img width="582" height="491" alt="image" src="https://github.com/user-attachments/assets/8ba76bc2-6712-42e1-8c36-25875c3fb9ee" />
+
 
 ---
 
