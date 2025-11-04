@@ -1,4 +1,4 @@
-# 🎓 Quiz Master Pro – Java Swing Based Quiz Application
+o# 🎓 Quiz Master Pro – Java Swing Based Quiz Application
 
 Quiz Master Pro is an interactive and feature-rich desktop quiz application built using **Java Swing**. It supports multiple quiz categories, score tracking, leaderboards, per-question timers, and a modern UI design. Perfect for learning, practicing, or just testing your knowledge!
 
@@ -110,8 +110,10 @@ Feel free to fork the repo, raise issues, or submit pull requests.
 
 ## 👨‍💻 Author
 
-**chitu444**8
+**chitu444**
+
 contact me at chitu69420@gmail.com
+
 https://github.com/chitu444
 
 
