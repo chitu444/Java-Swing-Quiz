@@ -1,4 +1,4 @@
-o# 🎓 Quiz Master Pro – Java Swing Based Quiz Application
+# 🎓 Quiz Master Pro – Java Swing Based Quiz Application
 
 Quiz Master Pro is an interactive and feature-rich desktop quiz application built using **Java Swing**. It supports multiple quiz categories, score tracking, leaderboards, per-question timers, and a modern UI design. Perfect for learning, practicing, or just testing your knowledge!
 
@@ -6,18 +6,18 @@ Quiz Master Pro is an interactive and feature-rich desktop quiz application buil
 
 ## 🚀 Features
 
-User Login & Registration** with password protection
-Dark Mode** toggle for a modern interface
-*Multiple Quiz Categories**: Java, General Knowledge, Mathematics
-Per-Question Timer** with timeout buzzer
-50-50 Lifeline** support
-Score History Tracking** (file-based)
-Leaderboard** showing top scorers
-Rotating Question Sets** to prevent repetition
-File-Based Data Management** (No SQL required)
-Score Export Support** (CSV/PDF planned)
-Admin Panel** (Planned) for uploading questions
-User Profiles** with attempt logs
+User Login & Registration with password protection
+Dark Mode toggle for a modern interface
+Multiple Quiz Categories: Java, General Knowledge, Mathematics
+Per-Question Timer with timeout buzzer
+50-50 Lifeline support
+Score History Tracking (file-based)
+Leaderboard showing top scorers
+Rotating Question Sets to prevent repetition
+File-Based Data Management (No SQL required)
+Score Export Support (CSV/PDF planned)
+Admin Panel (Planned) for uploading questions
+User Profiles with attempt logs
 
 
 ---
