@@ -96,9 +96,6 @@ QuizApplication/
 - [ ] Admin panel for uploading question sets
 - [ ] Score export to CSV or PDF
 - [ ] Profile management UI
-- [ ] More themes (dark/light/custom)
-- [ ] Online multiplayer quiz mode (optional)
-
 ---
 
 ## 📬 Feedback & Contributions
