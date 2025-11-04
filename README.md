@@ -70,7 +70,7 @@ QuizApplication/
 1. **Clone the Repository**  
    ```
    git clone https://github.com/chitu444/Java-Swing_Quiz.git
-   cd Quiz-Application-using-java-swing
+   cd Java-Swing-Quiz
    ```
 
 2. **Compile all files**  
