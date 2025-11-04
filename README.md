@@ -110,9 +110,10 @@ Feel free to fork the repo, raise issues, or submit pull requests.
 
 ## 👨‍💻 Author
 
-**Rahul Pandey**  
-📧 arryaroy7367@gmail.com  
-🔗 [GitHub Profile](https://github.com/raahulpandey/)
+**chitu444***
+contact me at chitu69420@gmail.com
+https://github.com/chitu444
+
 
 ---
 
