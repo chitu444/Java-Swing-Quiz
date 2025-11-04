@@ -6,19 +6,19 @@ Quiz Master Pro is an interactive and feature-rich desktop quiz application buil
 
 ## 🚀 Features
 
-- 👤 **User Login & Registration** with password protection
-- 🌗 **Dark Mode** toggle for a modern interface
-- 🧠 **Multiple Quiz Categories**: Java, General Knowledge, Mathematics
-- ⏳ **Per-Question Timer** with timeout buzzer
-- 🧪 **50-50 Lifeline** support
-- 🧾 **Score History Tracking** (file-based)
-- 🏆 **Leaderboard** showing top scorers
-- 🔁 **Rotating Question Sets** to prevent repetition
-- 📁 **File-Based Data Management** (No SQL required)
-- 📤 **Score Export Support** (CSV/PDF planned)
-- 📊 **Admin Panel** (Planned) for uploading questions
-- 🧑‍🎓 **User Profiles** with attempt logs
-- ✨ Gamification support (badges, levels - optional)
+User Login & Registration** with password protection
+Dark Mode** toggle for a modern interface
+*Multiple Quiz Categories**: Java, General Knowledge, Mathematics
+Per-Question Timer** with timeout buzzer
+50-50 Lifeline** support
+Score History Tracking** (file-based)
+Leaderboard** showing top scorers
+Rotating Question Sets** to prevent repetition
+File-Based Data Management** (No SQL required)
+Score Export Support** (CSV/PDF planned)
+Admin Panel** (Planned) for uploading questions
+User Profiles** with attempt logs
+
 
 ---
 
