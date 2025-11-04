@@ -69,7 +69,7 @@ QuizApplication/
 
 1. **Clone the Repository**  
    ```
-   git clone https://github.com/chitu444/Quiz-Application-using-java-swing.git
+   git clone https://github.com/chitu444/Java-Swing_Quiz.git
    cd Quiz-Application-using-java-swing
    ```
 
